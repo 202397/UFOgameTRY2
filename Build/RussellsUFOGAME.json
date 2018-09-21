@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Russell's UFO Game",
+"dataUrl": "RussellsUFOGAME.data.unityweb",
+"asmCodeUrl": "RussellsUFOGAME.asm.code.unityweb",
+"asmMemoryUrl": "RussellsUFOGAME.asm.memory.unityweb",
+"asmFrameworkUrl": "RussellsUFOGAME.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
